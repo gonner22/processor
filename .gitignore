@@ -4,3 +4,4 @@
 /dist
 /_debug
 /_tools
+yarn.lock
